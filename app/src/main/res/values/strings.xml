@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ChartLesson</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="to_lov_turi">To‘lov turi</string>
+    <string name="r">R</string>
+    <string name="python">Python</string>
+    <string name="c">C++</string>
+    <string name="java">Java</string>
+    <string name="use_of_programming_languages_in_percentage">Use of Programming Languages(In Percentage):</string>
+    <string name="_0">0</string>
+    <string name="cash">Naqd pul</string>
+    <string name="card">Plastik karta</string>
+    <string name="Aa">2.145.350 UZS</string>
+    <string name="Bb">Umumiy daromad</string>
+    <string name="yan">Январь</string>
+    <string name="fev">Февраль</string>
+    <string name="mart">Март</string>
+    <string name="aprel">Апрель </string>
+    <string name="may">Май</string>
+    <string name="iyun">Июнь</string>
+    <string name="iyul"> Июль </string>
+    <string name="avgust"> Август</string>
+    <string name="sentyabr"> Сентябрь </string>
+    <string name="oktabr"> Октябрь </string>
+    <string name="noyabr">  Ноябрь</string>
+    <string name="dekabr">  Декабрь </string>
+
+    // profile page strings
+    <string name="home_addresses">Balans</string>
+
+</resources>
